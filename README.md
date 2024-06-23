@@ -1,4 +1,3 @@
-# Magical-Arena-Game
 # Magical Arena
 
 ## Description
@@ -7,7 +6,7 @@ This is a simple implementation of a magical arena game where two players fight 
 ## How to Run
 1. **Clone the repository:**
     ```
-    git clone <repository-url>
+    git clone https://github.com/Aish022000/Magical-Arena-Game.git
     ```
 2. **Navigate to the project directory:**
     ```
@@ -27,7 +26,7 @@ This is a simple implementation of a magical arena game where two players fight 
     ```
 
 ## Project Structure
-- `src/main/java/arena`: Contains the main game logic and classes.
-- `src/test/java/arena`: Contains the unit tests.
+- `C:\Users\Legend\eclipse-workspace\MagicalArena\src\arena`: Contains the main game logic and classes.
+- `C:\Users\Legend\eclipse-workspace\MagicalArena\src\arena`: Contains the unit tests.
 - `build.gradle`: The build configuration file.
 - `README.md`: This file.
